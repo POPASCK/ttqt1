@@ -816,21 +816,6 @@
                     "maxLength": 30
                 },
                 {
-                    "id": "Category_title.subtitle",
-                    "type": "string",
-                    "format": "text",
-                    "label": "String",
-                    "description": null,
-                    "labelHTML": null,
-                    "placeholder": "Placeholder text ..",
-                    "icon": "sicon-format-text-alt",
-                    "value": null,
-                    "multilanguage": false,
-                    "required": false,
-                    "minLength": 6,
-                    "maxLength": 30
-                },
-                {
                     "id": "Category_item",
                     "type": "collection",
                     "format": "collection",
