@@ -785,7 +785,7 @@
                             "placeholder": "e.g. https://hostname.com/image.png",
                             "icon": "sicon-image",
                             "value": null,
-                            "required": true
+                            "required": false
                         }
                     ],
                     "value": [],
