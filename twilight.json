@@ -728,6 +728,13 @@
                     ]
                 }
             ]
+        },
+        {
+            "key": "fdca1d59-d378-4cfe-9443-f5e833b9749f",
+            "title": "banner2",
+            "icon": "sicon-store",
+            "path": "home.banner_2",
+            "fields": []
         }
     ],
     "support_url": "https://google.com",
