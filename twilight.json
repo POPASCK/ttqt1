@@ -776,7 +776,7 @@
                             "maxLength": 30
                         },
                         {
-                            "id": "banner_2.banner_2_banner.image",
+                            "id": "banner_2.banner_last.image",
                             "type": "string",
                             "format": "image",
                             "label": "Image",
