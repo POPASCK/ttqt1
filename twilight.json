@@ -776,16 +776,16 @@
                             "maxLength": 30
                         },
                         {
-                            "id": "banner_2.banner_last.image",
+                            "id": "banner_2.banner_2_banner.image",
                             "type": "string",
                             "format": "image",
                             "label": "Image",
-                            "description": "image Size is between 600*700px",
+                            "description": "* المقاس المناسب للصورة هو 900×600 بكسل",
                             "labelHTML": null,
                             "placeholder": "e.g. https://hostname.com/image.png",
                             "icon": "sicon-image",
                             "value": null,
-                            "required": false
+                            "required": true
                         }
                     ],
                     "value": [],
