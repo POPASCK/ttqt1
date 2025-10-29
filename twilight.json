@@ -793,6 +793,13 @@
                     "maxLength": 5
                 }
             ]
+        },
+        {
+            "key": "9f186dcf-b54f-44b5-ac8f-4b6bce65dce1",
+            "title": "StoreCategories",
+            "icon": "sicon-store",
+            "path": "home.store_categorise",
+            "fields": []
         }
     ],
     "support_url": "https://google.com",
