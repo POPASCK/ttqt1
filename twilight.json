@@ -757,11 +757,11 @@
                             "value": null,
                             "multilanguage": false,
                             "required": false,
-                            "minLength": 6,
+                            "minLength": "3",
                             "maxLength": 30
                         },
                         {
-                            "id": "banner_2.string",
+                            "id": "banner_2.banner_last.subtitle",
                             "type": "string",
                             "format": "text",
                             "label": "وصف الصورة",
@@ -776,7 +776,7 @@
                             "maxLength": 30
                         },
                         {
-                            "id": "banner_2.image",
+                            "id": "banner_2.banner_last.image",
                             "type": "string",
                             "format": "image",
                             "label": "Image",
@@ -785,7 +785,7 @@
                             "placeholder": "e.g. https://hostname.com/image.png",
                             "icon": "sicon-image",
                             "value": null,
-                            "required": false
+                            "required": true
                         }
                     ],
                     "value": [],
