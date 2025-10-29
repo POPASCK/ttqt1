@@ -736,7 +736,7 @@
             "path": "home.banner_2",
             "fields": [
                 {
-                    "id": "banner_2",
+                    "id": "banner_last",
                     "type": "collection",
                     "format": "collection",
                     "label": "banner_last",
@@ -746,7 +746,7 @@
                     "icon": "sicon-list-add",
                     "fields": [
                         {
-                            "id": "banner_2.banner_last.title",
+                            "id": "banner_last.title",
                             "type": "string",
                             "format": "text",
                             "label": "عنوان الصوره",
@@ -761,7 +761,7 @@
                             "maxLength": 30
                         },
                         {
-                            "id": "banner_2.banner_last.subtitle",
+                            "id": "banner_last.subtitle",
                             "type": "string",
                             "format": "text",
                             "label": "وصف الصورة",
@@ -776,7 +776,7 @@
                             "maxLength": 30
                         },
                         {
-                            "id": "banner_2.banner_last.image",
+                            "id": "banner_last.image",
                             "type": "string",
                             "format": "image",
                             "label": "Image",
