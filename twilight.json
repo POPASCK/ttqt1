@@ -801,7 +801,7 @@
             "path": "home.store_categorise",
             "fields": [
                 {
-                    "id": "categories",
+                    "id": "Category_title",
                     "type": "collection",
                     "format": "collection",
                     "label": "Category_title",
@@ -811,7 +811,7 @@
                     "icon": "sicon-list-add",
                     "fields": [
                         {
-                            "id": "categories.Category_title.title",
+                            "id": "Category_title.title",
                             "type": "string",
                             "format": "text",
                             "label": "title",
@@ -826,7 +826,7 @@
                             "maxLength": 30
                         },
                         {
-                            "id": "categories.Category_title.subtitle",
+                            "id": "Category_title.subtitle",
                             "type": "string",
                             "format": "text",
                             "label": "String",
