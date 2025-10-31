@@ -887,7 +887,23 @@
             "title": "youtube.wep",
             "icon": "sicon-store",
             "path": "home.youtube_wep",
-            "fields": []
+            "fields": [
+                {
+                    "id": "youtube_section",
+                    "type": "string",
+                    "format": "text",
+                    "label": "رابط اليوتيوب",
+                    "description": null,
+                    "labelHTML": "https://www.youtube.com/watch?v=",
+                    "placeholder": "Placeholder text ..",
+                    "icon": "sicon-format-text-alt",
+                    "value": null,
+                    "multilanguage": false,
+                    "required": false,
+                    "minLength": 6,
+                    "maxLength": 30
+                }
+            ]
         }
     ],
     "support_url": "https://google.com",
