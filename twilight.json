@@ -881,6 +881,13 @@
                     "maxLength": 30
                 }
             ]
+        },
+        {
+            "key": "82efbcef-7c8e-49af-90e0-4b9a1f70347f",
+            "title": "youtube.wep",
+            "icon": "sicon-store",
+            "path": "home.youtube_wep",
+            "fields": []
         }
     ],
     "support_url": "https://google.com",
