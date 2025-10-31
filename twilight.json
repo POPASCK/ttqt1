@@ -858,6 +858,13 @@
                     "maxLength": 5
                 }
             ]
+        },
+        {
+            "key": "8564d51b-014f-4108-96f6-5915ee349053",
+            "title": "Flash-sales",
+            "icon": "sicon-store",
+            "path": "home.Flash_sales",
+            "fields": []
         }
     ],
     "support_url": "https://google.com",
